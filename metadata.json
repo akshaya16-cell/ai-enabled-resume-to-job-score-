@@ -1,0 +1,8 @@
+{
+  "name": "ResumeScore — Cloud & AI Resume Match Engine",
+  "description": "AI-enabled resume-to-job match scoring workbench powered by cloud compute, vector embeddings, and structured rubric reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
